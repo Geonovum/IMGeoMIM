@@ -23,5 +23,6 @@ tr:nth-child(odd) {
 img {
 	
 	max-width: 100%;
-	
+	object-fit: contain;
+	height: auto;
 }
