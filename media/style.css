@@ -4,35 +4,24 @@ body {
 	font-family: 'Tenorite', sans-serif;	
 }
 
-table {
-	
-}
-
-
 tr:first-child {
 	
 	font-weight: bold;
 	color: white;	
-	background: #0085C6;
-	
+	background: #0085C6 !important;	
 }
 
 tr:nth-child(even) {	
-	background: #CCC
+	background: #eee;
 	}
 tr:nth-child(odd) {
-	background: #FFF
+	background: #fff;
 	}
 
 
-thead {
-}
 
-tbody {
-}
-th {
+img {
 	
-}
-
-td {		
+	max-width: 100%;
+	
 }
