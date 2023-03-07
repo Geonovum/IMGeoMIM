@@ -1,0 +1,38 @@
+@import url('https://fonts.cdnfonts.com/css/tenorite');
+
+body {	
+	font-family: 'Tenorite', sans-serif;	
+}
+
+table {
+	
+}
+
+
+tr:first-child {
+	
+	font-weight: bold;
+	color: white;	
+	background: #0085C6;
+	
+}
+
+tr:nth-child(even) {	
+	background: #CCC
+	}
+tr:nth-child(odd) {
+	background: #FFF
+	}
+
+
+thead {
+}
+
+tbody {
+}
+th {
+	
+}
+
+td {		
+}
