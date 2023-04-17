@@ -11,6 +11,12 @@ tr:first-child {
 	background: #0085C6 !important;	
 }
 
+img:hover {
+	cusor: zoom-in;
+	transform: scale(1.5);
+	
+}
+
 tr:nth-child(even) {	
 	background: #eee;
 	}
