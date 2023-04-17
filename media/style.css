@@ -12,8 +12,10 @@ tr:first-child {
 }
 
 img:hover {
+	align: right;
+	z-index: 99;
 	cusor: zoom-in;
-	transform: scale(1.5);
+	transform: scale(2);
 	
 }
 
