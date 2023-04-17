@@ -13,10 +13,10 @@ tr:first-child {
 
 
 .imageinfo.overview {
-	align: right;
+	/*align: right;
 	z-index: 99;
 	cusor: zoom-in;
-	transform: scale(2);
+	transform: scale(2);*/
 }
 
 
